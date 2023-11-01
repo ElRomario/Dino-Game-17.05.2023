@@ -1,0 +1,3 @@
+﻿  DinoAssMthf.cpp
+C:\Users\ElRomario\source\repos\DinoAssMthf\DinoAssMthf\DinoAssMthf.cpp(49,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DinoAssMthf.vcxproj -> C:\Users\ElRomario\source\repos\DinoAssMthf\Debug\DinoAssMthf.exe
